@@ -8,6 +8,6 @@
     "vite.config.ts"
   ],
   "paths": {
-    "@riusmax": [ "./lib/react-user-greeting.tsx" ]
+    "@riusmax/react-user-greeting": [ "./lib/main.tsx" ]
   } 
 }

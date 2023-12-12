@@ -2,7 +2,7 @@ interface GreetingProps {
   name?: string;
 }
 
-export default function UserGreeting ({ name }: GreetingProps) {
+export function UserGreeting ({ name }: GreetingProps) {
   const hours = new Date().getHours()
   let greeting = ''
 
@@ -22,3 +22,5 @@ export default function UserGreeting ({ name }: GreetingProps) {
     </div>
   )
 }
+
+export default UserGreeting
