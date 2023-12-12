@@ -1,6 +1,6 @@
 {
   "name": "riusmax-react-user-greeting",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Simple lib to show greeting with ReactJS",
   "license": "MIT",
   "main": "./dist/react-user-greeting.umd.js",
